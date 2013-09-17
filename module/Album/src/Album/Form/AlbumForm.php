@@ -34,7 +34,7 @@ class AlbumForm extends Form
                 'type'  => 'text',
             ),
             'options' => array(
-                'label' => 'TÃ­tle',
+                'label' => 'Tí­tle',
             ),
         ));
 
