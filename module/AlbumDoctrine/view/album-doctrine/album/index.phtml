@@ -1,0 +1,3 @@
+<?php foreach($tracks as $track): ?>
+<p><?php echo $track->getAlbum()->getArtist().' :: '.$track->getTrackTitle();?></p>
+<?php endforeach;?>
